@@ -1,5 +1,5 @@
 
-1. [CAFA](https://www.biofunctionprediction.org/cafa/): Critical Assessment of protein Function Annotation algorithms.
+1. [CAFA](https://www.biofunctionprediction.org/cafa/): **C**ritical **A**ssessment of protein **F**unction **A**nnotation algorithms.
 1. [CAID](https://idpcentral.org/caid): **C**ritical **a**ssessment of protein **i**ntrinsic **d**isorder prediction.
 1. [CAMI](https://www.microbiome-cosi.org/cami): **C**ritical **A**ssessment of **M**etagenome **I**nterpretation.
 1. [CAMDA](http://camda.info/): **C**ritical **A**ssessment of **M**assive **D**ata **A**nalysis.
